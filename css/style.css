@@ -58,6 +58,10 @@ body {
   color: #333;
   overflow-x: hidden;
   background: var(--pure-white);
+  background-image: url("../setup/Copy of Post249.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 img {
