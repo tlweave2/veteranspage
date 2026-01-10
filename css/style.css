@@ -58,7 +58,7 @@ body {
   color: #333;
   overflow-x: hidden;
   background-image: url("../setup/Copy of Post249.png");
-  background-size: contain;
+  background-size: 500px 500px;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
