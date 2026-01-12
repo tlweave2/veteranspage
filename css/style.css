@@ -57,8 +57,8 @@ body {
   line-height: 1.6;
   color: #333;
   overflow-x: hidden;
-  background-image: url("../setup/Copy of Post249.png");
-  background-size: auto;
+  background-image: url("../images/memorial-day-weekend.jpg");
+  background-size: cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
