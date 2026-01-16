@@ -147,7 +147,7 @@ Add images to the `images` folder and reference them in HTML:
 **Not Forgotten - American Legion Post 249 Foundation**
 
 - Address: 220 East Yosemite Avenue, Manteca, CA
-- Phone: +1.209-456-6263
+- Phone: +1.209-608-0288
 - Email: post249commander@gmail.com
 - Tax ID: 81-5431454 (501c3 non-profit)
 
