@@ -277,7 +277,7 @@ Your generous donations help us honor our fallen heroes and support Gold Star fa
 - $250 - Sponsors a veteran speaker
 - $500+ - Major event sponsorship
 
-**Tax ID**: XX-XXXXXXX (501c3 Nonprofit)
+**Tax ID**: 81-5431454 (501c3 Nonprofit)
 
 ## ♿ Accessibility Recommendations
 
